@@ -13,7 +13,7 @@
     "php": ">=5.4.0",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "paragonie/random_compat": "dev-master"
+    "paragonie/random_compat": "v2.0.10"
   },
   "require-dev": {
     "phpunit/phpunit": "5.7.19"
